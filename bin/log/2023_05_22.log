@@ -1,0 +1,15 @@
+2023-05-22 15:34:42.603661 [info] : ========== Server init ==========
+2023-05-22 15:34:42.603684 [info] : Port:1316, OpenLinger: false
+2023-05-22 15:34:42.603688 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-05-22 15:34:42.603691 [info] : LogSys level: 1
+2023-05-22 15:34:42.603694 [info] : srcDir: /home/kui/linuxPros/WebServer-master/bin/resources/
+2023-05-22 15:34:42.603696 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-05-22 15:34:42.603700 [info] : ========== Server start ==========
+2023-05-22 15:39:27.278420 [info] : Client[18](192.168.87.1:5611) in, userCount:1
+2023-05-22 15:39:27.278577 [info] : Client[18] in!
+2023-05-22 15:39:27.278601 [info] : Client[21](192.168.87.1:5867) in, userCount:2
+2023-05-22 15:39:27.278608 [info] : Client[21] in!
+2023-05-22 15:40:27.310584 [info] : Client[21] quit!
+2023-05-22 15:40:27.311024 [info] : Client[21](192.168.87.1:5867) quit, UserCount:1
+2023-05-22 15:40:55.452500 [info] : Client[18] quit!
+2023-05-22 15:40:55.452827 [info] : Client[18](192.168.87.1:5611) quit, UserCount:0
