@@ -1,5 +1,5 @@
 # HttpServer
-用C++实现的高性能WEB服务器，经过webbenchh压力测试可以实现近万的QPS
+用C++实现的高性能WEB服务器，经过webbench压力测试可以实现近万的QPS
 
 ## 功能
 * 利用IO复用技术Epoll与线程池实现多线程的Reactor高并发模型；
